@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Pooja Bhamare.
-- 🌱 I’m currently learning HTML, CSS/SCSS, Javascript, Typescript
+- 👋 Hi, I’m Puja Bhamare.
+- 🌱 I’m currently learning HTML, CSS/SCSS, Javascript, Typescript, and working as frontend Developer.
 - 💞️ I’m looking to collaborate on Frontend project
-- 📫 How to reach me mail
 
 <!---
 CodeByPooja/CodeByPooja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
